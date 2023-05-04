@@ -8,7 +8,7 @@ public class Controller {
 	
 	@GetMapping("/check")
 	private String data(){
-		return "AWS CICD was sucessfully created";
+		return "AWS CICD was sucessfully created\n hello";
 	}
 
 }
