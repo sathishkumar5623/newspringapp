@@ -11,14 +11,6 @@ public class Controller {
 		return "AWS CICD was sucessfully created\n hello";
 		
 	}
-	     @GetMapping("check2")
-	        public String data2() {
-		return"AWS service using CICD created ;
-	
-	}
-	        @GetMapping("check3")
-	        public String data2() {
-		return"pipeline run sucessfully";
-			}
+	     
 		
 	}
