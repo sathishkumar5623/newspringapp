@@ -8,6 +8,7 @@ public class NewspringappApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(NewspringappApplication.class, args);
+		System.out.println("CICD was sucessfully created");
 	}
 
 }
